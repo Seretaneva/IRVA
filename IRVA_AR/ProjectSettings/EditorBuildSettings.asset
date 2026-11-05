@@ -24,5 +24,10 @@ EditorBuildSettings:
     path: Assets/Scenes/L4_AugmentedFaces.unity
     guid: cfbafad4791917a41b657db4b002a5e6
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: de455637a589f5140969ee55e1ea0273, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 6c7ca0997a8eb1044b5e3677bd46223f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 50b1ab2ede6644c4d8f952cdf100f7f7, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 475e9bc20f8f5cc44ac0a0552832fb48, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 6f6d9ba2e2a171b4b9e243079e25b66f, type: 2}
   m_UseUCBPForAssetBundles: 0
